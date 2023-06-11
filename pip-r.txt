@@ -1,0 +1,5 @@
+opencv-python==4.5.5.64
+numba
+moviepy==1.0.3
+windows-curses
+pygame
